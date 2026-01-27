@@ -18,15 +18,21 @@ The goal of the game is to remember and repeat the sequence of colors shown by t
 
 ## 📂 Project Structure
 Simon-Says-Game/
+
 │
+
 ├── index.html # Main HTML file
+
 ├── code232.css # CSS styling
+
 ├── code232.js # JavaScript game logic
+
 └── README.md # Project documentation
 
 ---
 
 ## ▶️ How to Run the Project
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Simon-Says-Game.git
@@ -42,10 +48,15 @@ Simon-Says-Game/
 ## 🚀Features
 
 1.Random color sequence generation
+
 2.Level-based gameplay
+
 3.Button flash animations
+
 4.User interaction feedback
+
 5.Highest score tracking
+
 6.Simple and responsive UI
 
 ---
@@ -60,6 +71,7 @@ Simon-Says-Game/
 ## 👨‍💻 Author
 
 Naman Patidar
+
 B.Tech CSE Student
 
 ---
