@@ -41,6 +41,7 @@ Simon-Says-Game/
 6.Simple and responsive UI
 
 📸 Screenshot
+
 <img width="785" height="898" alt="Screenshot 2026-01-27 140054" src="https://github.com/user-attachments/assets/0949684a-ec77-43ec-866a-5029377a03bb" />
 <img width="896" height="921" alt="Screenshot 2026-01-27 135034" src="https://github.com/user-attachments/assets/53ee54ce-3f21-445d-8454-4a448e45d570" />
 
