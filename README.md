@@ -68,6 +68,14 @@ Simon-Says-Game/
 
 ---
 
+## 🌐 Live Demo
+
+Play the game here:  
+
+👉 https://namanpatidar800.github.io/simon_says_game/
+
+---
+
 ## 👨‍💻 Author
 
 Naman Patidar
