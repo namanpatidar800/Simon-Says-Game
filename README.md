@@ -68,9 +68,6 @@ Simon-Says-Game/
 
 ---
 
-
----
-
 ## 👨‍💻 Author
 
 Naman Patidar
