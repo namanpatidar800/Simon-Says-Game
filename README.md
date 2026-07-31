@@ -23,9 +23,9 @@ Simon-Says-Game/
 
 ├── index.html # Main HTML file
 
-├── code232.css # CSS styling
+├── style.css # CSS styling
 
-├── code232.js # JavaScript game logic
+├── app.js # JavaScript game logic
 
 └── README.md # Project documentation
 
