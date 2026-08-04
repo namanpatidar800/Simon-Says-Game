@@ -125,6 +125,6 @@ This project is open-source and available for learning and educational purposes.
 
 <div align="center">
 
-Made with ❤️ and a lot of `console.log()`
+Made with ❤️ by Naman Patidar`
 
 </div>
